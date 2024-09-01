@@ -1,0 +1,14 @@
+{
+  "package-id" : "il.community.fhir.r4.T17",
+  "version" : "1.0.0",
+  "path" : "http://ig.fhir-il-community.org/T17/1.0.0",
+  "mode" : "milestone",
+  "status" : "draft",
+  "sequence" : "draft-1",
+  "title" : "T17 IG",
+  "ci-build": "https://build.fhir.org/ig/il-community/T17",
+  "first": "true",
+  "category": "Financial",
+  "introduction": "This is the implementation guide (IG) for the T17 project",
+  "desc": "This is the implementation guide (IG) for the T17 project"
+}

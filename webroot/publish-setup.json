@@ -3,15 +3,15 @@
     "style": "fhir.layout",
     "url": "http://ig.fhir-il-community.org",
     "server": "apache",
-    "org": "<IGName>"
+    "org": "T17"
     
     
   },
   "layout-rules": [
     {
-      "npm": "il.community.fhir.r4.<IGName>",
-      "canonical": "http://ig.fhir-il-community.org/<IGName>",
-      "destination": "/<IGName>"
+      "npm": "il.community.fhir.r4.T17",
+      "canonical": "http://ig.fhir-il-community.org/T17",
+      "destination": "/T17"
     }
   ]
 }
