@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Set Java options to increase the heap size
-export JAVA_OPTS="-Xms4g -Xmx16g"
+# Increase heap size to 32GB
+export JAVA_OPTS="-Xms4g -Xmx32g"
 
 publisher_jar=publisher.jar
 input_cache_path=./input-cache/
