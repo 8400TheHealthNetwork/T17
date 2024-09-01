@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# Set Java options to increase the heap size
+export JAVA_OPTS="-Xmx8g"
+
 publisher_jar=publisher.jar
 input_cache_path=./input-cache/
 echo Checking internet connection...
